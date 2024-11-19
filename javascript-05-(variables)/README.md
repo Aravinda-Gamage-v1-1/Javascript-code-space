@@ -46,3 +46,40 @@ const b = 10;
 let total = a + b;
 ```
 
+#### Javascript data types
+Javascript has 8 data types
+* Sting
+* Number
+* Bigint
+* Boolean
+* Undefined
+* Null
+* Symbol
+* Object
+
+#### The Object data type 
+The object data type can contain both built-in objects and user defined objects.
+Built-in types can be: objects, arrays, dates, sets, intarrays, floatarrays, promises and more.
+```
+// Numbers:
+let length = 16;
+let weight = 7.5;
+
+// Strings:
+let color = "Yellow";
+let lastName = "Johnson";
+
+// Booleans
+let x = true;
+let y = false;
+
+// Object:
+const person = {firstName:"John", lastName:"Doe"};
+
+// Array object:
+const cars = ["Saab", "Volvo", "BMW"];
+
+// Date object:
+const date = new Date("2022-03-25");
+```
+
